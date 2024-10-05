@@ -3,17 +3,19 @@ SmartHomeLinkShift ist eine leistungsstarke Softwarelösung, die entwickelt wurd
 
 Im ersten Schritt konzentriert sich SmartHomeLinkShift auf die Integration und den Austausch von Daten zwischen den vier wichtigsten Smart-Home-Datenbanken:
 
-SQLite
+SQLite:
 Eine leichtgewichtige, dateibasierte Datenbank, die in vielen eingebetteten Systemen verwendet wird.
 
-InfluxDB
+InfluxDB:
 Eine speziell für Zeitreihendaten optimierte Datenbank, die ideal ist für IoT-Geräte und Sensoren in Smart-Home-Systemen.
 
-H2
+H2:
 Eine Java-basierte In-Memory-Datenbank, die vor allem für ihre hohe Geschwindigkeit und einfache Implementierung in Java-Anwendungen bekannt ist.
 
-Oracle
+Oracle:
 Eine leistungsstarke relationale Datenbank, die für große und komplexe Smart-Home-Systeme verwendet wird, die hohe Anforderungen an Skalierbarkeit und Sicherheit haben.
+
+
 Hauptfunktionen:
 
 Datenmigration zwischen verschiedenen Datenbanken
