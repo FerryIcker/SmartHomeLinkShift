@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartHomeLinkShift", "SmartHomeLinkShift\SmartHomeLinkShift.csproj", "{BC0C6917-E87C-4205-B30A-C616DD806FFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC0C6917-E87C-4205-B30A-C616DD806FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC0C6917-E87C-4205-B30A-C616DD806FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC0C6917-E87C-4205-B30A-C616DD806FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC0C6917-E87C-4205-B30A-C616DD806FFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8BAF1F6-EFAC-45A8-AF81-2F62A4C77D33}
+	EndGlobalSection
+EndGlobal
